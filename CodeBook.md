@@ -16,8 +16,8 @@ The dataset includes the following files:
 
 - test/
 
-..* X_test.txt
+* X_test.txt
 
-..* y_test.txt
+* y_test.txt
 
 ..* subject_test.txt
